@@ -1,0 +1,1 @@
+# munzur_mobil_privacy
