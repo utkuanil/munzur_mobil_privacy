@@ -27,6 +27,15 @@ Munzur Mobil uygulaması 13 yaş altındaki çocuklara yönelik değildir ve bil
 Kullanıcı Hakları:
 Kullanıcılar, kendilerine ait verilerin silinmesini veya güncellenmesini talep edebilir.
 
+## Hesap Silme
+
+Kullanıcılar hesaplarının silinmesini talep etmek için aşağıdaki e-posta adreslerinden bizimle iletişime geçebilir:
+
+anilutku@msn.com  
+anilutku@munzur.edu.tr
+
+Talep edilen hesap ve ilişkili veriler makul süre içerisinde silinir.
+
 İletişim:
 Herhangi bir soru veya talep için aşağıdaki e-posta adreslerinden bize ulaşabilirsiniz:
 anilutku@msn.com
